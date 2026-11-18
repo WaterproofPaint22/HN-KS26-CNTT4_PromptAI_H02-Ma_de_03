@@ -111,4 +111,4 @@ Giọng điệu (20%)	1 / 2	Lỗi 1 — Câu bị lỗi: "Chị học 6 buổi r
 Tổng điểm	2 / 10	Sai toàn bộ thông tin trọng yếu (học phí, chính sách hoàn tiền), thiếu câu hỏi khai thác nhu cầu và còn dùng từ ngữ suồng sã.	Rà soát kỹ thông tin sản phẩm và chính sách hoàn phí, bổ sung đủ câu hỏi về hình thức học (online/offline) cùng ngày khai giảng, đồng thời điều chỉnh văn phong chuẩn mực hơn.
 ```
 
-**Link trò chuyện:** https://share.gemini.google/tVOb9IWet5Dtx
+**Link trò chuyện:** https://share.gemini.google/TEtD3A1AUwdr
